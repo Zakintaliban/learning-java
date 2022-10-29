@@ -1,4 +1,4 @@
-public class Operators {
+class Operators {
     public static void main(String[] args) throws Exception {
         // operators
         double number1 = 12.5;
