@@ -1,4 +1,4 @@
-public class Variable {
+class Variable {
     public static void main(String[] args) throws Exception {
                 // integer
                 byte aSingleByte = 100; // -128 to 127
